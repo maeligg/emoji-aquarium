@@ -1,3 +1,5 @@
+![screenshot of emoji aquarium site](https://raw.githubusercontent.com/maeligg/emoji-aquarium/master/public/og-emoji-aquarium.png)
+
 # Emoji aquarium
 
 Enjoy the relaxing sight of fishies swimming around. Made by [Maëlig](https://twitter.com/MaelB), with inspirations from the [Emoji Aquarium Twitter bot](https://twitter.com/EmojiAquarium) and Windows 98 screensavers.
